@@ -11,6 +11,7 @@ Compared to the web app, this version has the following additional features:
 
 ## To-Do
 - [ ] Fix date display when the date changes (e.g. at midnight)
+- [ ] Open links in your default browser instead of inside the program
 
 ## Not coming
 - **Notifications**: Due to the complexity of the notification system, it is way too difficult to implement.
